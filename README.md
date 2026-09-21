@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Hamza Abu Askar 👋
 
-<!--
-**AbuAsker/AbuAsker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electrical Engineering Student** (Power & Machines) with a passion for **Automation, Electronics, and Software**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- ⚡ **Engineering Focus:** Power Systems, Electric Machines, Automation, and Electronics.
+- 💻 **Tech Stack:** Passionate about **Python** for problem-solving, algorithm development, and project automation.
+- 👔 **Leadership & Management:** Experienced in project management, HR leadership, public relations, and strategic development.
+- 🎬 **Creative Industry:** Experienced Video Editor, DIT (Digital Imaging Technician), and Assistant Director.
+
+---
+
+### 💼 Campus Leadership & Experience
+- **Vice Lead (HR)** | Engineering Creativity Club (*نادي الإبداع الهندسي*)
+- **Project Manager** | Manufacturing Community (*مجتمع التصنيع*)
+- **Public Relations Member** | Electrical Engineering Club (*نادي الهندسة الكهربائية*)
+- **Business Development Member** | Entrepreneurship Club (*نادي ريادة الاعمال*)
+
+---
+
+### 🎥 Media & Film Production Experience
+- **Assistant Director** | Saudi Founding Day Commercial Project with **Al Ittihad FC**.
+- **Editor & DIT** | Worked on multiple films, podcasts, and commercial media productions.
+
+---
+
+### 🛠️ Skills & Tools
+- **Engineering & Software:** Python, Power Systems Analysis, Automation Control.
+- **Management & Soft Skills:** Project Management, Team Leadership, HR Operations, Public Relations.
+- **Media & Post-Production:** Video Editing, DIT Workflows, On-set Directing Assistance.
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamzaabuaskar) | [Email](mailto:ham.askar7@gmail.com)
