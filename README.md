@@ -27,10 +27,22 @@
 ---
 
 ### 🛠️ Skills & Tools
-- **Engineering & Software:** Python, Power Systems Analysis, Automation Control.
-- **Management & Soft Skills:** Project Management, Team Leadership, HR Operations, Public Relations.
-- **Media & Post-Production:** Video Editing, DIT Workflows, On-set Directing Assistance.
+
+<!-- Badges Section - Place under 🛠️ Skills & Tools -->
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/MATLAB-e16708?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamzaabuaskar) | [Email](mailto:ham.askar7@gmail.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamzaabuaskar) | [Email](mailto:ham.askar7@gmail.com) <br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbuAsker&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Hamza's GitHub stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuAsker&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
