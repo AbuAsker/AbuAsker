@@ -40,9 +40,10 @@
 
 ---
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamzaabuaskar) | [Email](mailto:ham.askar7@gmail.com) <br />
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/hamzaabuaskar) | [Email](mailto:ham.askar7@gmail.com)
+<br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbuAsker&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Hamza's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AbuAsker&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Hamza's GitHub stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuAsker&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbuAsker&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
