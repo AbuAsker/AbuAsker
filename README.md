@@ -13,10 +13,10 @@
 ---
 
 ### 💼 Campus Leadership & Experience
-- **Vice Lead (HR)** | Engineering Creativity Club (*نادي الإبداع الهندسي*)
-- **Project Manager** | Manufacturing Community (*مجتمع التصنيع*)
-- **Public Relations Member** | Electrical & Computer Engineering Club (*نادي الهندسة الكهربائية والحاسبات*)
-- **Business Development Member** | Entrepreneurship Club (*نادي ريادة الاعمال*)
+- **SuperViser of the Main Competitions Committee** | Planning Department in Robotactic
+- **Project Manager** | Manufacturing Community
+- **Public Relations Member** | Electrical & Computer Engineering Club
+- **Business Development Member** | Entrepreneurship Club
 
 ---
 
